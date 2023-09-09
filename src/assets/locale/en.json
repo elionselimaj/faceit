@@ -1,0 +1,14 @@
+{
+  "feed": {
+    "title": "Feed",
+    "noNewerPosts": "You have reached all the Posts :)",
+    "noOlderPosts": "No more scroll for today :)"
+  },
+  "profile": {
+    "username": "Username:",
+    "email": "Email:",
+    "phone": "Phone",
+    "job": "Job:",
+    "address": "Address:"
+  }
+}
